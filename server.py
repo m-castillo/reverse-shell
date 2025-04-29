@@ -34,14 +34,3 @@ while True:
     dir_name = os.path.basename(cwd)
     print(f"Current directory: /{dir_name}")
 
-
-
-
-
-
-
-
-# client_message = client_socket.recv(1024)
-# print(client_message.decode())
-
-# client_socket.send(b"Hello from server")
